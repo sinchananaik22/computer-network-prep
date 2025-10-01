@@ -1,0 +1,200 @@
+
+
+---
+
+# 📘 Computer Network Interview Questions & Answers (For Freshers)
+
+---
+
+### **Question 1 – What is computer network?**
+
+**Answer:**
+A computer network is a system where two or more computers and devices are connected to share data, resources, and communication.
+
+* Communication can be **wired (Ethernet cables)** or **wireless (Wi-Fi, Bluetooth)**.
+* Networks enable file sharing, internet access, and remote communication.
+
+**Types of Computer Networks:**
+
+* **LAN (Local Area Network):** Small area (home, office).
+* **WAN (Wide Area Network):** Large geographical area (Internet).
+* **MAN (Metropolitan Area Network):** Connects LANs within a city.
+* **PAN (Personal Area Network):** Small personal range (Bluetooth).
+
+---
+
+### **Question 2 – What is an IP Address?**
+
+**Answer:**
+An IP address (Internet Protocol address) is a **unique identifier** assigned to each device in a network.
+
+* Functions: Identifies the device and its location.
+* **IPv4:** 32-bit, e.g., `192.168.1.1`.
+* **IPv6:** 128-bit, developed to overcome IPv4 limitations.
+
+---
+
+### **Question 3 – What are the different classes of IPv4?**
+
+**Answer:**
+IPv4 is divided into 5 classes:
+
+* **Class A:** Large networks (over 16 million hosts).
+* **Class B:** Medium networks (65,536 hosts).
+* **Class C:** Small networks (256 hosts).
+* **Class D:** Reserved for multicast.
+* **Class E:** Experimental use.
+
+---
+
+### **Question 4 – Explain different types of networks.**
+
+**Answer:**
+
+* **PAN:** Short-range (Bluetooth).
+* **LAN:** Small area (home/office).
+* **MAN:** Spans city/campus.
+* **WAN:** Long-distance (Internet).
+* **GAN:** Global (satellite-based).
+
+---
+
+### **Question 5 – What is a VPN?**
+
+**Answer:**
+A **Virtual Private Network (VPN)** creates a **secure encrypted tunnel** between your device and another network.
+
+* Masks IP address, secures data.
+* Used for remote work, bypassing geo-restrictions.
+
+---
+
+### **Question 6 – What is the OSI Model?**
+
+**Answer:**
+The **OSI (Open Systems Interconnection) Model** has 7 layers:
+
+1. Physical – Hardware, signals.
+2. Data Link – Error detection, MAC addressing.
+3. Network – Routing, IP addressing.
+4. Transport – Reliable delivery (TCP/UDP).
+5. Session – Session management.
+6. Presentation – Data formatting/encryption.
+7. Application – End-user services (HTTP, FTP).
+
+---
+
+### **Question 7 – What is TCP/IP?**
+
+**Answer:**
+TCP/IP is a **protocol suite** used for Internet communication with 4 layers:
+
+* Link Layer
+* Internet Layer
+* Transport Layer
+* Application Layer
+
+---
+
+### **Question 8 – What is DNS?**
+
+**Answer:**
+**DNS (Domain Name System)** translates domain names (e.g., `www.google.com`) into IP addresses.
+
+---
+
+### **Question 9 – What is DHCP?**
+
+**Answer:**
+**DHCP (Dynamic Host Configuration Protocol)** automatically assigns IP addresses and network settings to devices.
+
+---
+
+### **Question 10 – What is NAT?**
+
+**Answer:**
+**NAT (Network Address Translation)** converts private IPs to a public IP for internet access.
+
+* Conserves IP addresses.
+* Provides security.
+
+---
+
+### **Question 11 – What is subnetting?**
+
+**Answer:**
+Subnetting divides a larger network into **smaller sub-networks** for better security and efficiency.
+
+---
+
+### **Question 12 – What are firewalls?**
+
+**Answer:**
+A firewall monitors **incoming and outgoing traffic** and blocks unauthorized access based on rules.
+
+---
+
+### **Question 13 – What is ICMP?**
+
+**Answer:**
+**ICMP (Internet Control Message Protocol)** is used for error reporting and diagnostics (e.g., `ping`).
+
+---
+
+### **Question 14 – What is ARP?**
+
+**Answer:**
+**ARP (Address Resolution Protocol)** maps **IP addresses to MAC addresses** within a LAN.
+
+---
+
+### **Question 15 – Differentiate between TCP and UDP.**
+
+**Answer:**
+
+* **TCP:** Connection-oriented, reliable, slower (used in emails, web browsing).
+* **UDP:** Connectionless, unreliable, faster (used in video streaming, gaming).
+
+---
+
+### **Question 16 – What are unicasting, multicasting, broadcasting, anycasting?**
+
+**Answer:**
+
+* **Unicasting:** One-to-one.
+* **Multicasting:** One-to-many (specific).
+* **Broadcasting:** One-to-all.
+* **Anycasting:** One-to-one (nearest node).
+
+---
+
+### **Question 17 – What is a switch?**
+
+**Answer:**
+A **switch** connects devices in a LAN and forwards data based on **MAC addresses**.
+
+---
+
+### **Question 18 – What is routing?**
+
+**Answer:**
+**Routing** is the process of selecting the best path for data packets using **routers and routing tables**.
+
+---
+
+### **Question 19 – What are VLANs?**
+
+**Answer:**
+**VLAN (Virtual LAN):** Logically separates networks within the same physical switch for security and efficiency.
+
+---
+
+### **Question 20 – Define bandwidth and latency.**
+
+**Answer:**
+
+* **Bandwidth:** Max data transfer rate (bps).
+* **Latency:** Time delay in data transfer (ms).
+
+---
+
